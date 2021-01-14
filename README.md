@@ -49,7 +49,7 @@ an environment, where we will install the necessary packages for this course.
 
 _Navigate to the project directory_:
 ```bash
-> cd /path/to/dm2021_exercises
+> cd /path/to/dm2021-exercises
 ```
 
 _Create and activate environment:_  
