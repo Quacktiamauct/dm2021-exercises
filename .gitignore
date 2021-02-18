@@ -337,3 +337,5 @@ tags
 # End of https://www.gitignore.io/api/vim,linux,python,jupyternotebooks
 
 .vscode
+*/__pycache__/
+*/.vscode/
