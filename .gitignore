@@ -339,3 +339,4 @@ tags
 .vscode
 */__pycache__/
 */.vscode/
+.vscode
