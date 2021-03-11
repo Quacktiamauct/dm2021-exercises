@@ -339,3 +339,4 @@ tags
 # End of https://www.gitignore.io/api/vim,linux,python,jupyternotebooks
 */__pycache__/
 */.vscode/
+.virtual_documents/
